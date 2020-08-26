@@ -1,0 +1,14 @@
+{
+	"cities": [
+		{
+			"id": 388,
+			"city_name": "London",
+			"country_name": "United Kingdom",
+			"is_capital": true,
+			"location": {
+				"longitude": -0.114089,
+				"latitude": 51.507497
+			}
+		}
+	]
+}

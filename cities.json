@@ -1,0 +1,36 @@
+{
+	"cities": [
+		{
+			"id": 383,
+			"city_name": "Taipei",
+			"country_name": "Taiwan",
+			"is_capital": true,
+			"location": {
+				"longitude": 121.569649,
+				"latitude": 25.036786
+			}
+		},
+		
+		{
+			"id": 381,
+			"city_name": "New York",
+			"country_name": "United States",
+			"is_capital": false,
+			"location": {
+				"longitude": -74.004364,
+				"latitude": 40.710405
+			}
+		},
+		
+		{
+			"city_name": "London", 
+			"country_name": "United Kingdom", 
+			"id": 389, 
+			"is_capital": true, 
+			"location": {
+			  "latitude": 51.507497, 
+			  "longitude": -0.114089
+			}
+		}
+	]
+}
